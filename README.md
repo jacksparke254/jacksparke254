@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Jack Sparke
-- I just recently graduated from Bond University with a commerce degree, majoring in Data Science.
+- 👋 Hi, I’m Jack Sparke, I just recently graduated from Bond University with a commerce degree, majoring in Data Science.
 - 🌱 I’m currently learning how to effectively apply generative AI, exploitng OpenAI's GPT architecture.
 - 🌱 Also, looking at how reinforcement machine learning/AI can be applied to more business areas!
 - 📫 Feel free to message me on my LinkedIn: https://www.linkedin.com/in/jacksparke/
